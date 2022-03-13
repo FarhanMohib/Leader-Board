@@ -1,0 +1,77 @@
+body{
+    background-color: #E5E5E5;
+
+}
+ .navbar-brand{
+     padding-left: 220px;
+ }
+  
+ .navbar-nav{
+     padding-right: 220px;
+ }
+.navbar-nav li a{
+     color: white !important;
+ }
+.navbar img{
+    width: 41px;
+}
+
+.player img{
+    width: 56px;
+}
+main{
+    max-width: 870px;
+    height: 675px;
+}
+.orange-bg{
+     margin-top: 30px;
+     background-color: #FFFFFF;
+    
+}
+.play img{
+    width: 177px;
+    margin-right: 10px;
+}
+.write p{
+    color: #562EFF;
+}
+.bottom-player{
+    padding-top: 40px;
+}
+.container-f{
+    background-color: #FFFFFF;
+}
+.card{
+     border: none;
+     box-shadow: 5px 5px 10px lightgray;
+     border-radius: 20px;
+}
+.foot{
+     
+    max-width: 870px;
+}
+.sm-color{
+    color: #FF4A60;
+}
+.card-text{
+    font-weight: 600;
+}
+.icon img{
+    width: 15px;
+}
+.foot-img{
+    margin-left: 15px;
+    background-color: #dda4ab;
+    color:#FF4A60;
+    border: none;
+    border-radius: 40px;
+     
+}
+.foot-img img{
+    width: 20px;
+}
+footer{
+    text-align: center;
+    padding-top: 30px;
+    color: lightslategray;
+}
